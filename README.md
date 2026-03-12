@@ -1,0 +1,8 @@
+SAXS code
+Will Brackett
+Milliron and Truskett labs
+Deparmtent of Chemical Engineering, University of Michigan
+
+
+Code for converting 2D SAXS scattering patterns to 1D I vs. q curves.
+Only "Tiff_to_1D_new.py" and "form_fit" should be used. Other files in this repository are experimental or in development.
